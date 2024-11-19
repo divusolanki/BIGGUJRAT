@@ -1,0 +1,4 @@
+[17-Aug-2023 09:07:52 UTC] PHP Notice:  Undefined index: am in /home/gamewins/public_html/payment/payment.php on line 13
+[17-Aug-2023 09:07:52 UTC] PHP Notice:  Undefined index: user in /home/gamewins/public_html/payment/payment.php on line 14
+[17-Aug-2023 09:07:57 UTC] PHP Notice:  Undefined index: am in /home/gamewins/public_html/payment/payment.php on line 13
+[17-Aug-2023 09:07:57 UTC] PHP Notice:  Undefined index: user in /home/gamewins/public_html/payment/payment.php on line 14
